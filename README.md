@@ -1,4 +1,4 @@
-# jstest
+# JavaScript Test
 This is just a quick JavaScript test. 
 
 # Instructions
